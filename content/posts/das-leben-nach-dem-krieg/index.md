@@ -9,29 +9,22 @@ description = "Der Krieg bestehend aus dem Ersten und Zweiten Tschetschenienkrie
 +++
 # **Interview mit Diana Gehaeva | Das Leben nach dem Krieg**
 
-##### \
 Durch das Projekt "Muristalden bewegt" ergab sich die Möglichkeit, ein tiefgründiges Interview mit Madina Gechoi zu führen. Madina ist eine bemerkenswerte Frau, die persönlich die Grausamkeiten des Krieges erlebt hat und nun ihre Erfahrungen teilt. Unser Gespräch konzentrierte sich auf das Leben nach dem Krieg, eine Zeit, die oft von Herausforderungen, aber auch von Hoffnung geprägt ist.
 
 Dieses Interview wurde von Enziana Mezini gehalten, erstellt und veröffentlicht.
 
-#### Der Tschetschenienkrieg 
+#### Der Tschetschenienkrieg
 
 Der Krieg bestehend aus dem Ersten und Zweiten Tschetschenienkrieg, war ein langanhaltender Konflikt in den 1990er und frühen 2000er Jahren in der Republik Tschetschenien, Russische Föderation. Ursprünglich durch nationalistische Bestrebungen der Tschetschenen nach Unabhängigkeit von Russland motiviert, führte der Zusammenbruch der Sowjetunion zu einer Eskalation. Dieser blutige Konflikt hatte weitreichende politische, soziale und wirtschaftliche Auswirkungen auf die Region und Russland insgesamt.
 
 ![Madina Gechoi, im Konflikt mit ihrer Mutter, beteiligte sich an Protesten während des Krieges.](whatsapp-bild-2024-03-18-um-10.50.40_952e8299.jpg)
 
-
-
 Madina Gechoi ist eine Lehrerin, die den Tschetschenienkrieg hautnah erlebte. Im Interview gewährt sie Einblicke in ihre Erfahrungen während des Krieges und auf der Flucht.
-
-
 
 * Name: Madina Gechoi
 * Alter: 46 Jahre
 * Beruf: Lehrerin
 * Familiäre Situation: Kleine Familie
-
-
 
 >  "Nach Oxford. London. Alles war bereit. Meiner Zukunft, meine Träume. Wie jeder Jugendliche, der auch hat. Plötzlich war alles auf einmal weg."
 
@@ -57,13 +50,9 @@ Ich war gerade 16 im Sommer. Als dann im Dezember am elften der Krieg anfing.
 
 > Das Erste was ich gesehen habe, waren die Vögel, die Tauben, wie sie plötzlich auf der Straße lagen. Sie fielen runter als würde es regnen. Es war ein Chaos. Man verstand nicht, wo soll man hingehen?
 
-
-
 #### wann war es, dass sie aus Tschetschenien geflohen sind?
 
 Das war dann nach erst ein, eineinhalb Jahre später. Zuerst. Eben mussten wir flüchten und in verschiedene Länder und kurze Aufenthalte. Es war ständig Flucht.
-
-
 
 #### Wie viele Länder haben sie denn angehalten, für diese Flucht in die Schweiz zu kommen? War es ein langer Prozess, weil sie haben. Eineinhalb haben sie gesagt, eineinhalb Jahren da gewartet, dass sie aus der Stadt fliehen konnten. Entschuldigung und. War dieser Prozess? Wie lange hat es gedauert und wie sind Sie dazu gekommen, in die Schweiz zu gehen?
 
@@ -77,11 +66,7 @@ Ja, das war gesamte Zeit, hatte 3 Jahre Zeit genommen, Gesamtmittel, Krieg zusam
 
 Durch den Kontakt, der Kontakt mit der Familie.
 
-
-
 > Wenn man transformiert. Durch eben die Behandlung. Dann kommt man am Ende eben zum Licht des Tunnels, sagt man es.
->
->
 
 #### Also auch als wir gerade in die Schweiz kamen, gab es für sie direkt Unterstützung oder hat jemand probiert, sie aus dem Krieg zu holen?
 
@@ -91,21 +76,15 @@ Ja, aus dem Krieg zu holen gab es keine Hilfe. Man musste eben, man war auf sich
 
 Rote Kreuz, Internationale Rote Kreuz.
 
-
-
 ![Quelle: https://twitter.com/i/flow/login?redirect_after_login=%2FRotesKreuz_CH](fevmira-_400x400.jpg)
 
-
-
-#### Haben Sie das für sich selber abgeschlossen? 
+#### Haben Sie das für sich selber abgeschlossen?
 
 Auf jeden Fall durch das Studium. Konnte ich für mich sehr vieles bearbeiten. 
 
-#### Könnten Sie mir sagen, was Sie denn generell studiert haben oder wollen Sie das nicht? 
+#### Könnten Sie mir sagen, was Sie denn generell studiert haben oder wollen Sie das nicht?
 
 Ja, sicher, ich habe Übersetzungen studiert und mich auf den Posttraumata spezialisiert, um meine Familie auch besser zu unterstützen und zu verstehen.
-
-
 
 Madina Gechoi hat durch ihre Erfahrungen im Krieg und auf der Flucht tiefe Traumata erlebt, aber sie hat auch gelernt, damit umzugehen und sich langsam wieder aufzubauen. Ihre Geschichte ist eine Erinnerung an diejenigen, die unter Krieg leiden, aber auch an die Hoffnung auf ein besseres Morgen.
 
