@@ -1,10 +1,10 @@
 +++
 title = "About me"
 draft = false
-image = "whatsapp-bild-2024-03-18-um-10.49.01_0526c8eb.jpg"
+image = "e-1-.png"
 description = ""
 +++
-![](/img/default-author.jpg)
+![]()
 
 ## Enziana Mezini
 
