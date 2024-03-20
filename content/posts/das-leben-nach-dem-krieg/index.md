@@ -13,6 +13,8 @@ Durch das Projekt "Muristalden bewegt" ergab sich die Möglichkeit, ein tiefgrü
 
 Dieses Interview wurde von Enziana Mezini gehalten, erstellt und veröffentlicht.
 
+Enziana Mezini - Schülerin bei Muristalden Campus, 16 Jahre alt.
+
 #### Der Tschetschenienkrieg
 
 Der Krieg bestehend aus dem Ersten und Zweiten Tschetschenienkrieg, war ein langanhaltender Konflikt in den 1990er und frühen 2000er Jahren in der Republik Tschetschenien, Russische Föderation. Ursprünglich durch nationalistische Bestrebungen der Tschetschenen nach Unabhängigkeit von Russland motiviert, führte der Zusammenbruch der Sowjetunion zu einer Eskalation. Dieser blutige Konflikt hatte weitreichende politische, soziale und wirtschaftliche Auswirkungen auf die Region und Russland insgesamt.
