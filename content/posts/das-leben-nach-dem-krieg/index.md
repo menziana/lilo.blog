@@ -7,7 +7,7 @@ tags = ["Krieg", "Leben", "Menschenbewegt", "Neustart", "Inspiration"]
 image = "lighter-solid-grey-background-lg6bup60ibh9mpel.jpg"
 description = "Der Krieg bestehend aus dem Ersten und Zweiten Tschetschenienkrieg, war ein langanhaltender Konflikt in den 1990er und frühen 2000er Jahren in der Republik Tschetschenien, Russische Föderation. Ursprünglich durch nationalistische Bestrebungen der Tschetschenen nach Unabhängigkeit von Russland motiviert, führte der Zusammenbruch der Sowjetunion zu einer Eskalation. Dieser blutige Konflikt hatte weitreichende politische, soziale und wirtschaftliche Auswirkungen auf die Region und Russland insgesamt."
 +++
-# **Interview mit Diana Gehaeva | Das Leben nach dem Krieg**
+# **Interview mit Madina Gechoi | Das Leben nach dem Krieg**
 
 Durch das Projekt "Muristalden bewegt" ergab sich die Möglichkeit, ein tiefgründiges Interview mit Madina Gechoi zu führen. Madina ist eine bemerkenswerte Frau, die persönlich die Grausamkeiten des Krieges erlebt hat und nun ihre Erfahrungen teilt. Unser Gespräch konzentrierte sich auf das Leben nach dem Krieg, eine Zeit, die oft von Herausforderungen, aber auch von Hoffnung geprägt ist.
 
