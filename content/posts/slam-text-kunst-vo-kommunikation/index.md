@@ -4,6 +4,7 @@ date = "2024-06-09"
 draft = false
 pinned = false
 tags = ["#gedanken#kommunikation#teilen"]
+image = "whatsapp-bild-2024-06-09-um-13.54.19_cd480ceb.jpg"
 description = "Kommunikation ist der Schlüssel zu echten Verbindungen und tiefem Verständnis. Entdecke, wie Worte, Blicke und Gesten unsere Beziehungen prägen und das Fundament jeder Gemeinschaft bilden."
 +++
 Ig liebe zspiel vor Kommunikation, z Rede, dr Moment, dr Usdruck und d Mimik. Es wird so viu gseit, ohni dass me öpis mues tue, eifach dürd Art vor Kommunikation, weder ma sich mit sine Wörter usdruckt, e Bewegung mach, dr Blick, augekontakt oder o scho nur e Atemzug vo sich git. Es seit so viu us.
