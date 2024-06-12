@@ -3,7 +3,7 @@ title = "Slam Text | Kunst vo Kommunikation "
 date = "2024-06-12"
 draft = false
 pinned = false
-tags = ["#gedanken#kommunikation#teilen"]
+tags = ["gedanken", "kommunikation", "teilen"]
 image = "whatsapp-bild-2024-06-09-um-13.54.19_cd480ceb.jpg"
 description = "Kommunikation ist der Schlüssel zu echten Verbindungen und tiefem Verständnis. Entdecke, wie Worte, Blicke und Gesten unsere Beziehungen prägen und das Fundament jeder Gemeinschaft bilden.\n\nSlam Text den ich, Enziana Mezini geschrieben haben über die Kunst der Kommunikation."
 +++
