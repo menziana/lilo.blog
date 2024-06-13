@@ -7,91 +7,108 @@ tags = ["Krieg", "Leben", "Menschenbewegt", "Neustart", "Inspiration"]
 image = "whatsapp-bild-2024-03-18-um-10.49.01_0526c8eb.jpg"
 description = "Der Krieg bestehend aus dem Ersten und Zweiten Tschetschenienkrieg, war ein langanhaltender Konflikt in den 1990er und frühen 2000er Jahren in der Republik Tschetschenien, Russische Föderation. Ursprünglich durch nationalistische Bestrebungen der Tschetschenen nach Unabhängigkeit von Russland motiviert, führte der Zusammenbruch der Sowjetunion zu einer Eskalation. Dieser blutige Konflikt hatte weitreichende politische, soziale und wirtschaftliche Auswirkungen auf die Region und Russland insgesamt."
 +++
-# **Interview mit Madina Gechoi | Das Leben nach dem Krieg**
+# **Interview mit Madina Gechoi** 
 
-Durch das Projekt "Muristalden bewegt" ergab sich die Möglichkeit, ein tiefgründiges Interview mit Madina Gechoi zu führen. Madina ist eine bemerkenswerte Frau, die persönlich die Grausamkeiten des Krieges erlebt hat und nun ihre Erfahrungen teilt. Unser Gespräch konzentrierte sich auf das Leben nach dem Krieg, eine Zeit, die oft von Herausforderungen, aber auch von Hoffnung geprägt ist.
+Durch das Projekt "Muristalden bewegt" ergab sich die Möglichkeit, ein tiefgründiges Interview mit Madina Gechoi zu führen. Madina ist eine bemerkenswerte Frau, die persönlich die Grausamkeiten des Krieges erlebt hat und nun ihre Erfahrungen teilt. Das Gespräch konzentrierte sich auf das Leben nach dem Krieg, eine Zeit, die oft von Herausforderungen, aber auch von Hoffnung geprägt ist.
 
-Dieses Interview wurde von Enziana Mezini gehalten, erstellt und veröffentlicht.
+(Enziana Mezini - Schülerin bei Muristalden Campus, 16 Jahre alt.)
 
-Enziana Mezini - Schülerin bei Muristalden Campus, 16 Jahre alt.
+{{<box>}}
 
 #### Der Tschetschenienkrieg
 
 Der Krieg bestehend aus dem Ersten und Zweiten Tschetschenienkrieg, war ein langanhaltender Konflikt in den 1990er und frühen 2000er Jahren in der Republik Tschetschenien, Russische Föderation. Ursprünglich durch nationalistische Bestrebungen der Tschetschenen nach Unabhängigkeit von Russland motiviert, führte der Zusammenbruch der Sowjetunion zu einer Eskalation. Dieser blutige Konflikt hatte weitreichende politische, soziale und wirtschaftliche Auswirkungen auf die Region und Russland insgesamt.
 
+{{</box>}}
+
+
+
 ![Madina Gechoi, im Konflikt mit ihrer Mutter, beteiligte sich an Protesten während des Krieges.](whatsapp-bild-2024-03-18-um-10.50.40_952e8299.jpg)
+
+
+
+{{<lead>}}
 
 Madina Gechoi ist eine Lehrerin, die den Tschetschenienkrieg hautnah erlebte. Im Interview gewährt sie Einblicke in ihre Erfahrungen während des Krieges und auf der Flucht.
 
-* Name: Madina Gechoi
-* Alter: 46 Jahre
-* Beruf: Lehrerin
-* Familiäre Situation: Kleine Familie
+{{</lead>}}
 
->  "Nach Oxford. London. Alles war bereit. Meiner Zukunft, meine Träume. Wie jeder Jugendliche, der auch hat. Plötzlich war alles auf einmal weg."
+{{<box>}}
+
+Madina Gechoi ist 46 Jahre alt. Beruflich ist Sie als Lehrerin unterwegs. Sie ist Mutter von einer Tochter und ist seit bald 20 Jahren Verheiratet.
+
+{{</box>}}
+
+>  "Nach Oxford. London. Alles war bereit. Meine Zukunft, meine Träume. Plötzlich war alles auf einmal weg."
 
 Madina Gechoi, 16 Jahre alt zum Zeitpunkt des Kriegsausbruchs im Dezember 1994, beschreibt den plötzlichen Beginn des Tschetschenienkriegs als eine drastische Veränderung ihres Lebens. Von einem gewöhnlichen Tag zum Chaos, von Hoffnungen und Träumen zur Angst um das eigene Überleben – der Krieg traf sie unvorbereitet.
 
 Die Flucht vor der Gewalt war geprägt von ständiger Bewegung, Unsicherheit und der Suche nach einem sicheren Ort. Über drei Jahre hinweg kämpfte Madina Gechoi mit ihrer Familie darum, aus den Wirren des Krieges zu entkommen und ein neues Leben zu beginnen. Schließlich fanden sie Zuflucht in der Schweiz, wo sie auf die Hilfe des Roten Kreuzes zählen konnten.
 
-#### Wie Sie ja schon wissen, werden wir heute darüber reden, was für eine Auswirkung der Krieg auf ihr Leben hatte oder auf die auf das Leben allgemein der Menschen. Und ich würde gerne gleich direkt hineintauchen und damit anfangen mit wie es ist, ein Krieg zu erleben. Sie haben den Tschetschenischen Krieg ja persönlich erlebt, könnten sie ein bisschen uns einen Input hierbei geben?
+#### **Wie ist es, ein Krieg zu erleben. Sie haben den Tschetschenischen Krieg persönlich erlebt, könnten Sie erzählen wie Sie alles aufgenommen haben und was Ihnen prägnant aus ihren Erinnerungen heraussticht?**
 
-Ja, das war 1994. Es war ganz normal, alles funktionierte. Wir lebt dann auch so wie hier in der Schweiz. Freunde, verwandte, Familie. Wir hatten einen zuerst einen Putsch gehabt und dann nach diesem Putsch. Eineinhalb Monate später. Glaube ich. War es plötzlich. Im Fernsehen, so gegen 04:00 Uhr. Gab es Nachrichten und Fernseh war zu. Es war eine plötzliche Meldung. Nehmen sie schnell wie möglich nötig damit und verlassen sie ihren Haus.
+Das war 1994. Es war ganz normal, alles funktionierte. Wir lebten auch so wie hier in der Schweiz: Freunde, Verwandte, Familie. Wir hatten zuerst einen Putsch gehabt und dann nach diesem Putsch, eineinhalb Monate später, kam es plötzlich. Im Fernsehen, so gegen 04:00 Uhr, gab es Nachrichten und die Programme die im Fernsehen liefen wurden alle ausgestaltet. Es war eine plötzliche Meldung: "Nehmen sie schnell wie möglich nötig damit und verlassen sie ihren Haus."
 
-#### Könnten Sie mir erklären, was Sie mit Putsch meinen?
+#### Können Sie mir erklären, was Sie mit Putsch meinen?
 
-Es gab Menschenpolitisch, also die bewegten und gegeneinander versuchten. Zu stürzen das politische Regierung die damalige politische Regierung. Und sie versucht dann, an die Macht zu kommen. Alliiert mit russischen Regierung. Und das war der Putsch.
+Es gab Menschen, die politisch aktiv waren und gegeneinander arbeiteten, um die damalige Regierung zu stürzen. Sie versuchten, an die Macht zu kommen, indem sie sich mit der russischen Regierung verbündeten. Das war der Putsch.
 
-#### Welcher ist ein Moment der Sie sehr geprägt hat im Krieg. Hat dies eine Auswirkungen auf ihr Leben heutzutage oder etwas haben sie etwas, dass Sie nicht loslassen können.
 
-Ein Gefühl eben. Jemanden, den man sehr gerne hat oder jemanden aus der Familie. Zu verlieren. Das war eine, ja, das war Allerschlimmst. Plötzlich. Eigene Leute. Niemand verlor durch den Krieg. Angst. Angst ist auch leicht gesagt furchtbar. Dass eine Jugendliche oder um sein Leben kämpfen musste. Und diese Ziellosigkeit. Dass man nicht wusste, wird man überleben oder nicht. Hat eine Stärke. Ja, Nachfolge hinterlassen.
 
-#### Wie alt waren sie, als der Krieg angefangen hat?
+#### Welcher Moment im Krieg hat Sie besonders geprägt? Hat dies Auswirkungen auf Ihr Leben heutzutage, oder gibt es etwas, das Sie nicht loslassen können?
 
-Ich war gerade 16 im Sommer. Als dann im Dezember am elften der Krieg anfing.
+Ein Gefühl, jemanden zu verlieren, den man sehr gerne hat oder jemanden aus der Familie. Das war das Allerschlimmste. Plötzlich. Eigene Leute. Niemand blieb vom Krieg verschont. Angst. Angst ist ein furchtbares Gefühl. Dass ein Jugendlicher um sein Leben kämpfen musste. Und diese Ziellosigkeit. Dass man nicht wusste, ob man überleben wird oder nicht. Das hat eine Stärke hinterlassen, ja.
 
-> Das Erste was ich gesehen habe, waren die Vögel, die Tauben, wie sie plötzlich auf der Straße lagen. Sie fielen runter als würde es regnen. Es war ein Chaos. Man verstand nicht, wo soll man hingehen?
+#### Wie alt waren Sie, als der Krieg angefangen hat?
 
-#### wann war es, dass sie aus Tschetschenien geflohen sind?
+Ich war gerade 16 im Sommer geworden, als am elften Dezember der Krieg anfing.
 
-Das war dann nach erst ein, eineinhalb Jahre später. Zuerst. Eben mussten wir flüchten und in verschiedene Länder und kurze Aufenthalte. Es war ständig Flucht.
+> Das Erste, was ich gesehen habe, waren die Vögel, die Tauben, wie sie plötzlich auf der Straße lagen. Sie fielen runter, als würde es regnen. Es war ein Chaos. Man verstand nicht, wo man hingehen soll?
 
-#### Wie viele Länder haben sie denn angehalten, für diese Flucht in die Schweiz zu kommen? War es ein langer Prozess, weil sie haben. Eineinhalb haben sie gesagt, eineinhalb Jahren da gewartet, dass sie aus der Stadt fliehen konnten. Entschuldigung und. War dieser Prozess? Wie lange hat es gedauert und wie sind Sie dazu gekommen, in die Schweiz zu gehen?
+#### Wann war es, dass sie aus Tschetschenien geflohen sind?
 
-Es war. Durch diese Ebene hin und her im Land, zuerst in der Hoffnung, dass es. Krieg zu Ende wird und dass wir wieder aufbauen können. Und dann im Nachhinein eben einmal waren wir in Pakistan. Wir versuchen jede 3 Monate. Eine Verlängerung für unsere. Pisse zu bekommen. Es gab sehr starke Kontrolle und man ließ uns nicht. Sozusagen atmen. Die Polizei kam ganze Zeit und sie schikanierten und wir mussten ihn mir in die in den Bewegung bleiben. Danach Versuch. Wieder erneut in Tschetschenien Fuß zu fassen. Zum zweiten Mal. Es ging nicht. Es gab eben Kriminelle, es gab Militärs, es war sehr gefährlich. Und dann war es definitiv die Zeit, wo man weiter ging. Man verbrachte wieder ein Jahr in diesem Land. Die Menschen waren sehr lieb dort. Es gab Hilfe um. Wir haben dann entschieden, durch den Roten Kreuz in die Schweiz. Zu fliehen, weil Gefahr war, zu groß in diesen Orten zu bleiben. Für Angehörige aus der Familie.
+Das war erst ein, eineinhalb Jahre später. Zuerst mussten wir flüchten und in verschiedene Länder reisen und blieben nur kurz an jedem Ort. Es war eine ständige Flucht.
 
-#### Könnte ich nochmal zu der Frage zurückkehren, wieviel ähm, wie lange hat dieser Prozess gedauert? Könnten Sie das schätzen?
+Hier ist der korrigierte Text:
 
-Ja, das war gesamte Zeit, hatte 3 Jahre Zeit genommen, Gesamtmittel, Krieg zusammen.
+#### Wie viele Länder haben Sie durchquert, um in die Schweiz zu gelangen? War es ein langer Prozess? Sie haben gesagt, dass Sie eineinhalb Jahre gewartet haben, um aus der Stadt zu fliehen. Entschuldigung, wie lange hat dieser Prozess insgesamt gedauert und wie sind Sie letztlich in die Schweiz gekommen?
 
-#### Wie gehen Sie heute mit Traumata oder emotionalen Belastungen um, die sie die durch den Krieg entstanden sind?
+Es war ein ständiges Hin und Her im Land, zunächst in der Hoffnung, dass der Krieg zu Ende geht und wir wieder aufbauen können. Einmal waren wir in Pakistan. Wir mussten alle drei Monate versuchen, eine Verlängerung für unsere Papiere zu bekommen. Es gab sehr strenge Kontrollen, und man ließ uns kaum atmen. Die Polizei kam ständig und schikanierte uns, sodass wir ständig in Bewegung bleiben mussten. Danach versuchten wir erneut, in Tschetschenien Fuß zu fassen. Es ging nicht. Es gab Kriminelle, es gab Militärs, es war sehr gefährlich. Dann war es definitiv die Zeit, weiterzugehen. Wir verbrachten wieder ein Jahr in diesem Land. Die Menschen waren dort sehr lieb und es gab Hilfe. Schließlich entschieden wir uns, durch das Rote Kreuz in die Schweiz zu fliehen, weil die Gefahr in diesen Orten zu groß war, besonders für Angehörige der Familie.
 
-Durch den Kontakt, der Kontakt mit der Familie.
+#### Wie lange dieser Prozess insgesamt gedauert hat? Könnten Sie das schätzen?
 
-> Wenn man transformiert. Durch eben die Behandlung. Dann kommt man am Ende eben zum Licht des Tunnels, sagt man es.
+Ja, der gesamte Prozess hat insgesamt drei Jahre gedauert, zusammen mit dem Krieg.
 
-#### Also auch als wir gerade in die Schweiz kamen, gab es für sie direkt Unterstützung oder hat jemand probiert, sie aus dem Krieg zu holen?
+#### Wie gehen Sie heute mit den Traumata oder emotionalen Belastungen um, die durch den Krieg entstanden sind?
 
-Ja, aus dem Krieg zu holen gab es keine Hilfe. Man musste eben, man war auf sich selbst gestellt, aber. Sobald wir hier kamen, gab es eine professionelle Hilfe.
+Durch den Kontakt mit der Familie.
 
-#### Eine Person oder eine spezifische Organisation, die sie besonders unterstützt hat?
+> Am ende vom jedem Tunnel ist das Licht.
 
-Rote Kreuz, Internationale Rote Kreuz.
+#### Als Sie in die Schweiz kamen, gab es da sofort Unterstützung, oder hat jemand versucht, Sie aus dem Krieg zu holen?
 
-![Quelle: https://twitter.com/i/flow/login?redirect_after_login=%2FRotesKreuz_CH](fevmira-_400x400.jpg)
+Ja, aus dem Krieg zu holen gab es keine Hilfe. Man war auf sich selbst gestellt. Aber sobald wir hier waren, gab es professionelle Hilfe.
+
+#### Gab es eine Person oder eine spezifische Organisation, die Sie besonders unterstützt hat?
+
+Das Internationale Rote Kreuz.
+
+
 
 #### Haben Sie das für sich selber abgeschlossen?
 
-Auf jeden Fall durch das Studium. Konnte ich für mich sehr vieles bearbeiten. 
+Auf jeden Fall, durch das Studium konnte ich sehr vieles für mich verarbeiten.
 
-#### Könnten Sie mir sagen, was Sie denn generell studiert haben oder wollen Sie das nicht?
 
-Ja, sicher, ich habe Übersetzungen studiert und mich auf den Posttraumata spezialisiert, um meine Familie auch besser zu unterstützen und zu verstehen.
+
+#### Was haben Sie Studiert?
+
+Madina Gechoi hat Übersetzung studiert und sich auf Posttraumata Spezialisiet, um Ihre Familie zu unterstützen und verstehen.
 
 Madina Gechoi hat durch ihre Erfahrungen im Krieg und auf der Flucht tiefe Traumata erlebt, aber sie hat auch gelernt, damit umzugehen und sich langsam wieder aufzubauen. Ihre Geschichte ist eine Erinnerung an diejenigen, die unter Krieg leiden, aber auch an die Hoffnung auf ein besseres Morgen.
 
 Dieses Interview mit Madina Gechoi verdeutlicht die Resilienz und den Überlebenswillen der Menschen, die von Konflikten betroffen sind. Ihre Stimme erhebt sich als Zeugnis für diejenigen, die durch den Krieg verloren wurden und für diejenigen, die noch kämpfen.
 
-Ich bedanke mich Herzlich bei Madina Gechoi für ihre Zeit und Teilnahme. Frau Gechoi möchte nicht das ein Bild von ihr veröffentlicht wird mit ihrer Geschichte gemeinsam, anstadt hat sie mir zwei bilder geschickt, das erste ist wie sie mit Ihrer Mutter am Protestieren ist und das zweite ist vom Kaukasischem Gebierge. 
+Frau Gechoi möchte nicht dass ein Bild von ihr veröffentlicht wird stattdessen hat Sie zwei Bilder zugeschickt: Das erste ist, wie Sie mit Ihrer Mutter am Protestieren ist, und das zweite ist vom Kaukasischen Gebirge. 
 
 ![Kaukasisches Gebirge](whatsapp-bild-2024-03-18-um-10.49.01_0526c8eb.jpg)
