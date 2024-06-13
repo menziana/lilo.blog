@@ -4,6 +4,7 @@ date = "2024-06-08"
 draft = false
 pinned = true
 tags = ["Kriegserfahrungen", "Tschetschenien", "Überlebensgeschichte", "Stärke", "Kriegsflüchtlinge", "Erfolgsgeschichte"]
+image = "whatsapp-bild-2024-03-18-um-10.50.40_0feccc7e.jpg"
 description = "Das Leben nach dem Krieg bedeutet für viele Menschen immense Herausforderungen, aber auch die Hoffnung auf einen Neuanfang. Erfahren Sie in dieser fesselnden Reportage, wie Madina Gechoi den Tschetschenischen Krieg erlebte und ihr Leben danach gestaltete."
 +++
 **Erfahrungen im Krieg**
