@@ -3,7 +3,7 @@ title = "Kunst vor Kommunikation | Slam Poetry Text"
 date = "2024-06-05"
 draft = false
 pinned = false
-tags = ["gedanken", "kommunikation", "teilen"]
+tags = ["gedanke", "teile", "komunikation"]
 image = "screenshot-2024-06-13-234149.png"
 description = "Kommunikation ist der Schlüssel zu echten Verbindungen und tiefem Verständnis. Entdecke, wie Worte, Blicke und Gesten unsere Beziehungen prägen und das Fundament jeder Gemeinschaft bilden.\n\nSlam Text den ich, Enziana Mezini geschrieben haben über die Kunst der Kommunikation."
 +++
